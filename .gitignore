@@ -1,0 +1,75 @@
+# Arquivos de dependências
+*.dll
+*.exe
+*.so
+*.dylib
+*.nupkg
+*.snupkg
+*.pdb
+
+# Diretórios de build
+[Bb]in/
+[Oo]bj/
+
+# Arquivos de configuração do Visual Studio
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Diretórios do Visual Studio
+.vs/
+.vscode/
+.idea/
+.ionide/
+
+# Arquivos de configuração locais
+appsettings*.json
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.temp
+*.tmp
+*.cache
+*.diff
+*.patch
+*.orig
+*.rej
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo NuGet
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Arquivos do Rider
+.idea/
+.idea_modules/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/labels.xml
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/todos.xml
+.idea/watcherTasks.xml
+.idea/dataSources/
+.idea/dataSources.local/
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/runConfigurations/
+.idea/target/
+
+# Arquivos do pacote
+packages/
