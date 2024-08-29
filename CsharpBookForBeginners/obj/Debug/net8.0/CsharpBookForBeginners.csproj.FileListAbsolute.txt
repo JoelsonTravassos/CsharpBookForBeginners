@@ -1,0 +1,14 @@
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\obj\Debug\net8.0\CsharpBookForBeginners.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\obj\Debug\net8.0\CsharpBookForBeginners.AssemblyInfoInputs.cache
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\obj\Debug\net8.0\CsharpBookForBeginners.AssemblyInfo.cs
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\obj\Debug\net8.0\CsharpBookForBeginners.csproj.CoreCompileInputs.cache
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\bin\Debug\net8.0\CsharpBookForBeginners.exe
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\bin\Debug\net8.0\CsharpBookForBeginners.deps.json
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\bin\Debug\net8.0\CsharpBookForBeginners.runtimeconfig.json
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\bin\Debug\net8.0\CsharpBookForBeginners.dll
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\bin\Debug\net8.0\CsharpBookForBeginners.pdb
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\obj\Debug\net8.0\CsharpBookForBeginners.dll
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\obj\Debug\net8.0\refint\CsharpBookForBeginners.dll
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\obj\Debug\net8.0\CsharpBookForBeginners.pdb
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\obj\Debug\net8.0\CsharpBookForBeginners.genruntimeconfig.cache
+C:\Users\Joelson\Desktop\CsharpBookForBeginners\CsharpBookForBeginners\obj\Debug\net8.0\ref\CsharpBookForBeginners.dll
